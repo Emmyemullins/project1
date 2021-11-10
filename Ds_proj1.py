@@ -39,8 +39,8 @@ len(data.columns)
 #from botocore.exceptions import NoCredentialsError
 # pip install boto3
 
-#ACCESS_KEY = 'AKIAS6BSB4KJ3NPLVEGD'
-#SECRET_KEY = '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'
+#ACCESS_KEY = '****S6BSB4KJ3NPLVEGD'
+#SECRET_KEY = '*****wi02FADbiv3+YBBX1OJBsEB+QI+lt1ZMEFa'
 
 #def upload_to_aws(local_file, bucket, s3_file):
 #    s3 = boto3.client('s3',aws_access_key_id = ACCESS_KEY,
